@@ -1,0 +1,9 @@
+step,rows_affected
+Standardised depot names,35
+Dropped duplicate uploads,191
+Parsed UK-format dates,2419
+Converted miles to km,2419
+Removed zero or negative distances,35
+Blanked fuel decimal slips,45
+Imputed missing fuel,519
+Imputed missing payload,322
